@@ -1,0 +1,24 @@
+{
+    "name": "readme-generator",
+    "version": "1.0.0",
+    "description": "a node application that creates a readme per authors criteria",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/hilekat/hmwrk9.git"
+    },
+    "author": "Hilekat",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/hilekat/hmwrk9/probs"
+    },
+    "homepage": "https://github.com/hilekat/hmwrk9#readme",
+    "dependencies": {
+      "axios": "^0.19.2",
+      "inquirer": "^7.1.0",
+      "util": "^0.12.3"
+    }
+  }
