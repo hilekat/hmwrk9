@@ -1,7 +1,7 @@
 {
     "name": "readme-generator",
     "version": "1.0.0",
-    "description": "a node application that creates a readme per authors criteria",
+    "description": "a node application that creates a readme per authors' wants",
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
